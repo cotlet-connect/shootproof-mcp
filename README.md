@@ -105,6 +105,7 @@ ShootProof has no official MCP server and no official app in ChatGPT or Claude (
 
 - [ShootProof on Cotlet.dev](https://cotlet.dev/integrations/shootproof-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=shootproof&utm_content=find)
 - [PyPI package shootproof-mcp](https://pypi.org/project/shootproof-mcp/)
+- [Odel](https://odel.app/modules/cotlet/shootproof)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-shootproof-to-ai-agents-guide)
 
 ## Also works with
